@@ -1,2 +1,2 @@
 # Resources
-Random color picker - Using jxs
+Random color picker - using jxs
